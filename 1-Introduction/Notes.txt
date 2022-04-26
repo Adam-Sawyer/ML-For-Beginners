@@ -1,0 +1,106 @@
+Notes for Lesson 1-Introduction:
+
+    Pt. 1 Intro to ML:
+
+        Deep Learning vs. Machine Learning:
+
+            Machine Learning - A portfolio of statistical algorithms that look at your data and learn something to make a prediction.
+
+            AI - The application that is built on top of the ML models. The results of a deployed model.
+
+            Deep Learning - A type of more advanced ML. Not different just more specific.
+
+        Introduction to Machine Learning - MIT's John Guttag
+
+            Machine Learning - "Computers Learning without being explicitly programmed" - Arthur Samuel (1959)
+
+            Traditional Programming:
+
+                Data    ->
+                            Computer -> Output
+                Program ->
+            
+            Machine Learning:
+
+                Data    ->
+                            Computer -> Program
+                Output  ->
+
+            How are things learned
+
+                Memorization:
+
+                    Accumulation of individual facts
+
+                    This is declarative knowledge
+
+                Generalization:
+
+                    Deduce new facts from old facts
+
+                    This is imperative knowledge
+
+                In ML we are seeking generalization
+
+            Supervised Learning:
+
+                Given a set of feature/label pairs, find a rule that predicts the label associated with a previously unseen input
+
+            Unsupervised Learning:
+
+                Given a set of feature vectors (without labels) group them into "natural clusters" (or create labels for groups)
+
+            Feature Engineering:
+
+                What are the features in my dataset and how do I weight those features to create the optimal model?
+
+            Manhattan Distance:
+
+                Given points (x,y) and (x1, y1)
+
+                Manhattan Distance = abs(x-x1) - abs(y-y1)
+
+                Calculating this distance you measure the distance of moving only parallel to each axis and not taking the actual
+                shortest straight route between each destination
+
+                This would be useful for determining distance in a discrete space
+
+            Euclidean distance:
+
+                Given points (x,y) and (x1, y1)
+
+                Euclidean Distance = ((x-x1)^2 - (y-y1)^2)^(1/2)
+
+                Calculating this distance measures the shortest distance by moving directly to the destination with no turns
+
+                This is useful for determining distance in a continous space
+
+            Accuracy:
+
+                The predictive accuracy of a model
+
+                accuracy = (True Positive + True Negative) / (True Positive + True Negative + False Positive + False Negative)
+
+            Positive Predictive Value (PPV):
+
+                The accuracy of a model for positive predictions
+
+                PPV = True Positive / (True Positive + False Positive)
+
+            Sensitivity:
+
+                The percentage of positive samples in the dataset correctly identified
+
+                sensitivity = True Positive / (True Positive + False Negative)
+
+            Specificity:
+
+                The percentage of negative samples in the dataset correctly rejected
+
+                specificity = True Negative / (True Negative + False Positive)
+
+
+
+
+
+
