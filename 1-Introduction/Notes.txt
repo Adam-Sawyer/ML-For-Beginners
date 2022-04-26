@@ -99,8 +99,44 @@ Notes for Lesson 1-Introduction:
 
                 specificity = True Negative / (True Negative + False Positive)
 
+    Pt. 2 History of ML:
 
+        1950 Alan turing laid the foundation for machines that can think
 
+        1956 Dartmouth Summer Research Project coins the terms Artificial Intelligence
+
+        1956-1974 Researchers were confident in the future of the field and thought that it would progress rapidly
+
+            Achievments in this period:
+
+                First chat bot Eliza developed
+
+                Shakey the robot
+
+                Blocks world
+
+        1974-1980 Confidence in the future of the field diminished due to overcoming problems such as computer power, exponential growth in required parameters
+        paucity of data, the 'chinese room theory' brought into question the turing test, the ethics of introducing AI into society was questioned
+
+            Paradigm forms between scruffy vs. neat AI. Scruffy AI had researchers develop algorithms and special case solutions for each problem to produce
+            intelligent behaviour while neat AI tried to find a more general approach to developing intelligence that can be iterated and improved upon to achieve
+            general intelligence or superintelligence. After the 90's neat became the almost exclusively used approach.
+
+        1980s Expert Systems
+
+            Businesses began to use the first successful forms of AI known as expert systems which utilized a rules engine for business requirement and an inference
+            system that used rules to deduce new facts.
+
+        1987-1993 AI Chill
+
+            AI systems were less commonly used in this time period but the start of personal computing opened up the development of big data in the future
+
+        1993-2011 Problems caused by lack of computing power and lack of data were starting to be overcome in this time period and it caused rapid development of
+        the field again.
+
+        Now AI is part of our everyday lives and the ethics of using AI is now a much larger issue that needs addressed
+
+        
 
 
 
