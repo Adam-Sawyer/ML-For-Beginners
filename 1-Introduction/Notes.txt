@@ -177,7 +177,53 @@ Notes for Lesson 1-Introduction:
 
             Use Fairlearn a python library for increasing fairness in models
 
+    Pt. 4 Techniques of ML:
 
+        High level steps for creating ML processes
 
+            1. Decide on the question: ML processes usually start from a point of not being able to make a rules-based engine or conditional program that will
+            solve the problem
 
+            2. Collect and Prepare Data: This phase includes collecting data that will help you answer your question. Quality and quantity of data will likely
+            decide how well you can answer that question. In this phase you will also work on visualizing the data and splitting it into training and testing groups
+
+            3. Choose a training method: This is the part that requires expertise in order to provide the correct model with appropriate parameters to the dataset that
+            you have. This phase often requires a lot of experimentation
+
+            4. Train the Model: Use your training data to help the model recognize patterns in the data
+
+            5. Evaluate the Model: Use never before seen data (testing data) to test your models performance
+
+            6. Parameter Tuning: Based on your models performance you can redo the process using different parameters or variables that control the behavior of
+            the algorithms used to train the model 
+
+            7. Predict: Use new inputs to test the accuracy of your model
+
+        Features and Target
+
+            Feature
+
+                A measurable property of your data
+
+                Feature Extraction: Creates new features from functions of the original features
+
+                Feature Selection: A subset of the whole feature set 
+
+            Target
+
+                The thing you are trying to predict with your data
+
+        Visualizing your data
+
+            Libraries like MatPlotLib and Seaborn can help you get a new perspective on your data through visualization.
+
+        Training Model
+
+            Model Fitting: Accuracy of a models underlying function as it attempts to analyze data it is not familiar with
+
+            Overfit Model: The model is fit too specifically to the training data. Meaning it performs well on training data and poor on testing data
+            
+            Underfit: The model fails to find any clear pattern in the data and performs poorly on both testing and training data
+            
+             
 
