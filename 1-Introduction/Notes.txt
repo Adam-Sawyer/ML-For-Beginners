@@ -136,7 +136,48 @@ Notes for Lesson 1-Introduction:
 
         Now AI is part of our everyday lives and the ethics of using AI is now a much larger issue that needs addressed
 
-        
+    Pt. 3 Fairness in ML:
+
+        Introduction
+
+            If you are building a model based off of data that lacks certain demographics, such as race, gender, political view, religion, or disproportionally represents
+            those demographics then you will build a model with unfair biases
+
+        Unfairness in data and algorithms
+
+            If you manipulate data enough you can get it to produce any outcome you want. Sometimes this manipulation is unintentional due to implicit biases but
+            it is important to be aware of this and work to remove these biases from our data. 
+
+        Fairness-related harms
+
+            Main Fainess related harms
+
+                Allocation: Favoring one group over another
+
+                Quality of Service: Data is trained for one specific scenario but in reality it is more complex leading to worse service
+
+                Stereotyping: Associating a given group with pre-assigned attributes
+
+                Denigration: Unfairly criticize and label something or someone
+
+                Over- or under- representation: The idea that a certain group is not seen in a profession and a service or function that keeps promoting it
+                makes this a self-fulfilling prophecy
+
+        Detecting Unfairness
+
+            Social biases, inadequate data and wrong assumptions can cause unfairness so it is important to watch out for them
+
+            Assessment Methods
+
+                1. Identify harms (and benefits): Think about how actions and decisions can affect both potential customers and a business itself
+
+                2. Identify the affected groups: Once harms and benefits are found, identify the groups that may be affected
+
+                3. Define fairness metrics: Define a metric so you have something to measure against and improve
+
+            Use Fairlearn a python library for increasing fairness in models
+
+
 
 
 
