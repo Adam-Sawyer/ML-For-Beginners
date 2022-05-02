@@ -1,0 +1,11 @@
+Notes for Lesson 2 - Regression
+
+    These lessons will teach how to build regression models
+
+    Pt. 1 Tools
+
+    Linear Regression: If you are attempting to predict a numeric value then this type of model will work well
+
+    Logistic Regression: If you are trying to predict a category assignment this model will work well for you
+    
+    
