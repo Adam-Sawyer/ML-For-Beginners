@@ -224,6 +224,6 @@ Notes for Lesson 1-Introduction:
             Overfit Model: The model is fit too specifically to the training data. Meaning it performs well on training data and poor on testing data
             
             Underfit: The model fails to find any clear pattern in the data and performs poorly on both testing and training data
-            
-             
+
+        
 

@@ -8,4 +8,8 @@ Notes for Lesson 2 - Regression
 
     Logistic Regression: If you are trying to predict a category assignment this model will work well for you
     
-    
+    Pt. 2 Data
+
+    Data visualization is a key step before building your model. It allows you to gain insight on the data you are working with.
+
+    Normalize data before analysis
