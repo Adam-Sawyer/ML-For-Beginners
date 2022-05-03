@@ -13,3 +13,11 @@ Notes for Lesson 2 - Regression
     Data visualization is a key step before building your model. It allows you to gain insight on the data you are working with.
 
     Normalize data before analysis
+
+    Pt. 3 Linear
+
+    Our linear regression is a least-squares regression that minimizes the error between all of the points by fitting the line in a spot that
+    has the least cumulative distance from all of the points
+
+    Correlation Coefficient: A scatterplot of the datapoints in a straight line would have a high correlation Coefficient and the more scattered the points are
+    the lower the correlation Coefficient.
